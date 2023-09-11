@@ -1,0 +1,1 @@
+Additional configuration file for plugin 2
